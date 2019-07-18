@@ -1,1 +1,1 @@
-class CreateShows
+class CreateShows < ActiveMigration
