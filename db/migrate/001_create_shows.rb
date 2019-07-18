@@ -1,1 +1,1 @@
-class CreateShows < ActiveMigration
+class CreateShows < ActiveRecord::Migration[5.1]
